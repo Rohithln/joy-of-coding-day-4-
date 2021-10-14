@@ -1,0 +1,17 @@
+#include <stdio.h> 
+11 int main () 
+float a1[6]= {560, 660, 590, 760, 480, 960};
+float a2[6]= {97. 50, 66, 79 .55, 98 .45,96.40); int as=s1zeot(al) 
+int is=sizeof (a1[®]); int len=as/is; 
+L4 
+LS 
+L7 
+int 
+for (i-0;i<len; i++) L9 
+print ("%F\n", a1[il); print ("%F \n", a2[i));
+21 
+22 
+5 
+24 
+for (i-len; i>0; i- -) 
+prants "f\n ", al[i]); print ("%F \n" a2[i1);
