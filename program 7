@@ -1,0 +1,10 @@
+#include <stdio . h> ***/ L 
+11 int main()
+12 
+int arr[2]-{10, 20, 30, 40, 50, 6e}s L4 
+L5 
+16 return e; 
+17 
+18 
+input int arr[2]=(10, 20, 30, 40, 50, 60) ; 
+main.c:l4 :32: note: (near initialization for arr")
