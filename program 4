@@ -1,0 +1,18 @@
+#include<stdio. h> 
+int main()
+int n,aln], num, i, count=0, attempts-0 print("enter the number of chits \n "); 
+can ("%d",&n); 
+print ("enter the numbers on chits \n") tor (1=0;in;it+)
+scan ("%d",&a[il); print("enter the particular number to be picked \n") scan ("%d", &num); 
+for(i=0;i<n;it+) 
+L 
+L 
+L5 
+if(num-=a[i]) 4 
+L 
+Count+ 
+attempts=i+1; 
+L 
+L8 
+L9 
+print ("no of duplicate chits %d\n", count) print ("no of attempts is %d",attempts);
